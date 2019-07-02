@@ -1,0 +1,599 @@
+{
+	"name": "Alderaan",
+	"climate": "temperate",
+	"terrain": "grasslands, mountains",
+	"films": [
+			"https://swapi.co/api/films/6/",
+			"https://swapi.co/api/films/1/"
+	         ],
+	"url": "https://swapi.co/api/planets/2/"
+}
+
+
+{
+	"name": "Yavin IV",
+	"climate": "temperate, tropical",
+	"terrain": "jungle, rainforests",
+	"films": [
+			"https://swapi.co/api/films/1/"
+		 ],
+	"url": "https://swapi.co/api/planets/3/"
+}
+
+
+{
+	"name": "Hoth",
+	"climate": "frozen",
+	"terrain": "tundra, ice caves, mountain ranges",
+	"films": [
+			"https://swapi.co/api/films/2/"
+	         ],
+	"url": "https://swapi.co/api/planets/4/"
+}
+
+
+{
+	"name": "Dagobah",
+	"climate": "murky",
+	"terrain": "swamp, jungles",
+	"films": [
+			"https://swapi.co/api/films/2/",
+			"https://swapi.co/api/films/6/",
+			"https://swapi.co/api/films/3/"
+	         ],
+	"url": "https://swapi.co/api/planets/5/"
+}
+
+
+{
+	"name": "Bespin",
+	"climate": "temperate",
+	"terrain": "gas giant",
+	"films": [
+			"https://swapi.co/api/films/2/"
+		 ],
+	"url": "https://swapi.co/api/planets/6/"
+}
+
+
+{
+	"name": "Endor",
+	"climate": "temperate",
+	"terrain": "forests, mountains, lakes",
+	"films": [
+			"https://swapi.co/api/films/3/"
+		 ],
+	"url": "https://swapi.co/api/planets/7/"
+}
+
+
+{
+	"name": "Naboo",
+	"climate": "temperate",
+	"terrain": "grassy hills, swamps, forests, mountains",
+	"films": [
+			"https://swapi.co/api/films/5/",
+			"https://swapi.co/api/films/4/",
+			"https://swapi.co/api/films/6/",
+			"https://swapi.co/api/films/3/"
+		 ],
+	"url": "https://swapi.co/api/planets/8/"
+}
+
+
+{
+	"name": "Coruscant",
+	"climate": "temperate",
+	"terrain": "cityscape, mountains",
+	"films": [
+			"https://swapi.co/api/films/5/",
+			"https://swapi.co/api/films/4/",
+			"https://swapi.co/api/films/6/",
+			"https://swapi.co/api/films/3/"
+		 ],
+	"url": "https://swapi.co/api/planets/9/"
+}
+
+
+{
+	"name": "Kamino",
+	"climate": "temperate",
+	"terrain": "ocean",
+	"films": [
+			"https://swapi.co/api/films/5/"
+		 ],
+	"url": "https://swapi.co/api/planets/10/"
+}
+
+
+{
+	"name": "Geonosis",
+	"climate": "temperate, arid",
+	"terrain": "rock, desert, mountain, barren",
+	"films": [
+			"https://swapi.co/api/films/5/"
+		 ],
+	"url": "https://swapi.co/api/planets/11/"
+}
+
+
+{
+	"name": "Utapau",
+	"climate": "temperate, arid, windy",
+	"terrain": "scrublands, savanna, canyons, sinkholes",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/12/"
+}
+
+
+{
+	"name": "Mustafar",
+	"climate": "hot",
+	"terrain": "volcanoes, lava rivers, mountains, caves",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/13/"
+}
+
+{
+	"name": "Kashyyyk",
+	"climate": "tropical",
+	"terrain": "jungle, forests, lakes, rivers",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/14/"
+}
+
+{
+	"name": "Polis Massa",
+	"climate": "artificial temperate ",
+	"terrain": "airless asteroid",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/15/"
+}
+
+
+{
+	"name": "Mygeeto",
+	"climate": "frigid",
+	"terrain": "glaciers, mountains, ice canyons",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/16/"
+}
+
+
+{
+	"name": "Felucia",
+	"climate": "hot, humid",
+	"terrain": "fungus forests",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/17/"
+}
+
+
+{
+	"name": "Cato Neimoidia",
+	"climate": "temperate, moist",
+	"terrain": "mountains, fields, forests, rock arches",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/18/"
+}
+
+
+{
+	"name": "Saleucami",
+	"climate": "hot",
+	"terrain": "caves, desert, mountains, volcanoes",
+	"films": [
+			"https://swapi.co/api/films/6/"
+		 ],
+	"url": "https://swapi.co/api/planets/19/"
+}
+
+
+{
+	"name": "Stewjon",
+	"climate": "temperate",
+	"terrain": "grass",
+	"films": [],
+	"url": "https://swapi.co/api/planets/20/"
+}
+
+
+{
+	"name": "Eriadu",
+	"climate": "polluted",
+	"terrain": "cityscape",
+	"films": [],
+	"url": "https://swapi.co/api/planets/21/"
+}
+
+
+{
+	"name": "Corellia",
+	"climate": "temperate",
+	"terrain": "plains, urban, hills, forests",
+	"films": [],
+	"url": "https://swapi.co/api/planets/22/"
+}
+
+
+{
+	"name": "Rodia",
+	"climate": "hot",
+	"terrain": "jungles, oceans, urban, swamps",
+	"films": [],
+	"url": "https://swapi.co/api/planets/23/"
+}
+
+
+{
+	"name": "Nal Hutta",
+	"climate": "temperate",
+	"terrain": "urban, oceans, swamps, bogs",
+	"films": [],
+	"url": "https://swapi.co/api/planets/24/"
+}
+
+
+{
+	"name": "Dantooine",
+	"climate": "temperate",
+	"terrain": "oceans, savannas, mountains, grasslands",
+	"films": [],
+	"url": "https://swapi.co/api/planets/25/"
+}
+
+
+{
+	"name": "Bestine IV",
+	"climate": "temperate",
+	"terrain": "rocky islands, oceans",
+	"films": [],
+	"url": "https://swapi.co/api/planets/26/"
+}
+
+
+{
+	"name": "Ord Mantell",
+	"climate": "temperate",
+	"terrain": "plains, seas, mesas",
+	"films": [
+			"https://swapi.co/api/films/2/"
+		 ],
+	"url": "https://swapi.co/api/planets/27/"
+}
+
+
+{
+	"name": "unknown",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/28/"
+}
+
+
+{
+	"name": "Trandosha",
+	"climate": "arid",
+	"terrain": "mountains, seas, grasslands, deserts",
+	"films": [],
+	"url": "https://swapi.co/api/planets/29/"
+}
+
+
+{
+	"name": "Socorro",
+	"climate": "arid",
+	"terrain": "deserts, mountains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/30/"
+}
+
+
+{
+	"name": "Mon Cala",
+	"climate": "temperate",
+	"terrain": "oceans, reefs, islands",
+	"films": [],
+	"url": "https://swapi.co/api/planets/31/"
+}
+
+
+{
+	"name": "Chandrila",
+	"climate": "temperate",
+	"terrain": "plains, forests",
+	"films": [],
+	"url": "https://swapi.co/api/planets/32/"
+}
+
+
+{
+	"name": "Sullust",
+	"climate": "superheated",
+	"terrain": "mountains, volcanoes, rocky deserts",
+	"films": [],
+	"url": "https://swapi.co/api/planets/33/"
+}
+
+
+{
+	"name": "Toydaria",
+	"climate": "temperate",
+	"terrain": "swamps, lakes",
+	"films": [],
+	"url": "https://swapi.co/api/planets/34/"
+}
+
+{
+	"name": "Malastare",
+	"climate": "arid, temperate, tropical",
+	"terrain": "swamps, deserts, jungles, mountains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/35/"
+}
+
+
+{
+	"name": "Dathomir",
+	"climate": "temperate",
+	"terrain": "forests, deserts, savannas",
+	"films": [],
+	"url": "https://swapi.co/api/planets/36/"
+}
+
+
+{
+	"name": "Ryloth",
+	"climate": "temperate, arid, subartic",
+	"terrain": "mountains, valleys, deserts, tundra",
+	"films": [],
+	"url": "https://swapi.co/api/planets/37/"
+}
+
+
+{
+	"name": "Aleen Minor",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/38/"
+}
+
+
+{
+	"name": "Vulpter",
+	"climate": "temperate, artic",
+	"terrain": "urban, barren",
+	"films": [],
+	"url": "https://swapi.co/api/planets/39/"
+}
+
+
+{
+	"name": "Troiken",
+	"climate": "unknown",
+	"terrain": "desert, tundra, rainforests, mountains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/40/"
+}
+
+
+{
+	"name": "Tund",
+	"climate": "unknown",
+	"terrain": "barren, ash",
+	"films": [],
+	"url": "https://swapi.co/api/planets/41/"
+}
+
+
+{
+	"name": "Haruun Kal",
+	"climate": "temperate",
+	"terrain": "toxic cloudsea, plateaus, volcanoes",
+	"films": [],
+	"url": "https://swapi.co/api/planets/42/"
+}
+
+
+{
+	"name": "Cerea",
+	"climate": "temperate",
+	"terrain": "verdant",
+	"films": [],
+	"url": "https://swapi.co/api/planets/43/"
+}
+
+
+{
+	"name": "Glee Anselm",
+	"climate": "tropical, temperate",
+	"terrain": "lakes, islands, swamps, seas",
+	"films": [],
+	"url": "https://swapi.co/api/planets/44/"
+}
+
+
+{
+	"name": "Iridonia",
+	"climate": "unknown",
+	"terrain": "rocky canyons, acid pools",
+	"films": [],
+	"url": "https://swapi.co/api/planets/45/"
+}
+
+
+{
+	"name": "Tholoth",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/46/"
+}
+
+
+{
+	"name": "name": "Iktotch",
+	"climate": "arid, rocky, windy",
+	"terrain": "rocky",
+	"films": [],
+	"url": "https://swapi.co/api/planets/47/"
+}
+
+
+{
+	"name": "Quermia",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/48/"
+}
+
+
+{
+	"name": "Dorin",
+	"climate": "temperate",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/49/"
+}
+
+
+{
+	"name": "Champala",
+	"climate": "temperate",
+	"terrain": "oceans, rainforests, plateaus",
+	"films": [],
+	"url": "https://swapi.co/api/planets/50/"
+}
+
+
+{
+	"name": "Mirial",
+	"climate": "unknown",
+	"terrain": "deserts",
+	"films": [],
+	"url": "https://swapi.co/api/planets/51/"
+}
+
+
+{
+	"name": "Serenno",
+	"climate": "unknown",
+	"terrain": "rainforests, rivers, mountains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/52/"
+}
+
+
+{
+	"name": "Concord Dawn",
+	"climate": "unknown",
+	"terrain": "jungles, forests, deserts",
+	"films": [],
+	"url": "https://swapi.co/api/planets/53/"
+}
+
+
+{
+	"name": "Zolan",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/54/"
+}
+
+
+{
+	"name": "Ojom",
+	"climate": "frigid",
+	"terrain": "oceans, glaciers",
+	"films": [],
+	"url": "https://swapi.co/api/planets/55/"
+}
+
+
+{
+	"name": "Skako",
+	"climate": "temperate",
+	"terrain": "urban, vines",
+	"films": [],
+	"url": "https://swapi.co/api/planets/56/"
+}
+
+
+{
+	"name": "Muunilinst",
+	"climate": "temperate",
+	"terrain": "plains, forests, hills, mountains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/57/"
+}
+
+
+{
+	"name": "Shili",
+	"climate": "temperate",
+	"terrain": "cities, savannahs, seas, plains",
+	"films": [],
+	"url": "https://swapi.co/api/planets/58/"
+}
+
+
+{
+	"name": "Kalee",
+	"climate": "arid, temperate, tropical",
+	"terrain": "rainforests, cliffs, canyons, seas",
+	"films": [],
+	"url": "https://swapi.co/api/planets/59/"
+}
+
+
+{
+	"name": "Umbara",
+	"climate": "unknown",
+	"terrain": "unknown",
+	"films": [],
+	"url": "https://swapi.co/api/planets/60/"
+}
+
+
+{
+	"name": "Tatooine",
+	"climate": "arid",
+	"terrain": "desert",
+	"films": [
+			"https://swapi.co/api/films/5/",
+			"https://swapi.co/api/films/4/",
+			"https://swapi.co/api/films/6/",
+			"https://swapi.co/api/films/3/",
+			"https://swapi.co/api/films/1/"
+		 ],
+	"url": "https://swapi.co/api/planets/61/"
+}
+
+
+{
+	"name": "Jakku",
+	"climate": "unknown",
+	"terrain": "deserts",
+	"films": [
+			"https://swapi.co/api/films/7/"
+		 ],
+	"url": "https://swapi.co/api/planets/62/"
+}
